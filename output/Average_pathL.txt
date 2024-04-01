@@ -1,0 +1,34 @@
+Example 1:
+Enter nodes separated by space: A B C D
+Enter number of edges: 4
+Enter an edge (node1 node2): A B
+Enter an edge (node1 node2): B C
+Enter an edge (node1 node2): C D
+Enter an edge (node1 node2): D A
+Average path length of the graph: 1.3333333333333333
+
+
+Example 2:
+Enter nodes separated by space: 1 2 3 4
+Enter number of edges: 5
+Enter an edge (node1 node2): 1 2
+Enter an edge (node1 node2): 2 3
+Enter an edge (node1 node2): 3 4
+Enter an edge (node1 node2): 4 1
+Enter an edge (node1 node2): 3 1
+Average path length of the graph: 1.1666666666666667
+
+
+Example 3:
+Enter nodes separated by space: A B C D E
+Enter number of edges: 7
+Enter an edge (node1 node2): A B
+Enter an edge (node1 node2): B C
+Enter an edge (node1 node2): C D
+Enter an edge (node1 node2): D E
+Enter an edge (node1 node2): E A
+Enter an edge (node1 node2): A C
+Enter an edge (node1 node2): B E
+
+
+Average path length of the graph: 1.3

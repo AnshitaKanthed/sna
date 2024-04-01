@@ -1,0 +1,8 @@
+Influenced nodes using Independent Cascade Model: {1, 2, 3, 4}
+Influenced nodes using Linear Threshold Model: {1}
+
+Influenced nodes using Independent Cascade Model: {1, 2, 4, 6}
+Influenced nodes using Linear Threshold Model: {1}
+
+Influenced nodes using Independent Cascade Model: {1}
+Influenced nodes using Linear Threshold Model: {1}

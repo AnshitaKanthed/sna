@@ -1,0 +1,13 @@
+Enter the number of nodes in the network: 4
+Enter the number of neighbors for node 1: 2
+Enter neighbor node and probability for node 1 (separated by space): 2 0.5
+Enter neighbor node and probability for node 1 (separated by space): 3 0.7
+Enter the number of neighbors for node 2: 1
+Enter neighbor node and probability for node 2 (separated by space): 4 0.3
+Enter the number of neighbors for node 3: 1
+Enter neighbor node and probability for node 3 (separated by space): 4 0.6
+Enter the number of neighbors for node 4: 0
+Enter the seed set (comma-separated): 1
+
+
+Influence of the seed set: 4
